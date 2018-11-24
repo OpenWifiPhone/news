@@ -1,7 +1,7 @@
 Dépêches sur la téléphonie
 ==========================
 
-* [Quel système d'exploitation pour nos téléphones ?](Systèmes_d'exploitation_libres_pour_téléphones.md)
+* [Quel système d'exploitation pour nos téléphones ?](systemes_d-exploitation_plus_ou_moins_libres_pour_telephones.md)
 
 
 Licence
